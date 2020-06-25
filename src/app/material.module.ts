@@ -109,7 +109,6 @@ const myModule = [
   ScrollingModule,
   A11yModule,
   ClipboardModule,
-  CdkStepperModule,
   CdkTableModule,
   CdkTreeModule,
   DragDropModule,
